@@ -1,10 +1,10 @@
-## Simple Calculator
+# Simple Calculator
 A simple calculator made with tkinter.
 
-# Installation
+## Installation
 Clone this repository.
 
-# Platforms
+## Platforms
 Currently works only on windows.
 
-# Created By :-- Abhyush
+## Created By :-- Abhyush
